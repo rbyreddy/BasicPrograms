@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Vowels">
+  <component name="RunManager" selected="Application.LargestNumber">
     <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.programs.EvenOdd" />
       <module name="CorePrograms" />
@@ -48,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.programs.Factorisation" />
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.programs.LargestNumber" />
       <module name="CorePrograms" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestNumber" />
         <item itemvalue="Application.Vowels" />
         <item itemvalue="Application.EvenOdd" />
         <item itemvalue="Application.SwapNumbers" />
         <item itemvalue="Application.QuotientRemainder" />
-        <item itemvalue="Application.Factorisation" />
       </list>
     </recent_temporary>
   </component>
