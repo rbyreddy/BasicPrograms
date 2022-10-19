@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ad973f5-0764-42e7-af1a-f998494a57f0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/basic/programs/HormonicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/programs/HormonicNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +34,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HormonicNumber">
-    <configuration name="FlipCoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.programs.FlipCoin" />
+  <component name="RunManager" selected="Application.Factorisation">
+    <configuration name="Factorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.programs.Factorisation" />
       <module name="CorePrograms" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorisation" />
         <item itemvalue="Application.HormonicNumber" />
         <item itemvalue="Application.Harmonic" />
         <item itemvalue="Application.PowerOf2" />
         <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.FlipCoin" />
       </list>
     </recent_temporary>
   </component>
