@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ad973f5-0764-42e7-af1a-f998494a57f0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/basic/programs/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/programs/EvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EvenOdd">
+  <component name="RunManager" selected="Application.Vowels">
     <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.programs.EvenOdd" />
       <module name="CorePrograms" />
@@ -50,19 +50,6 @@
     </configuration>
     <configuration name="Factorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.programs.Factorisation" />
-      <module name="CorePrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HormonicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.programs.HormonicNumber" />
       <module name="CorePrograms" />
       <extension name="coverage">
         <pattern>
@@ -100,13 +87,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.programs.Vowels" />
+      <module name="CorePrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Vowels" />
         <item itemvalue="Application.EvenOdd" />
         <item itemvalue="Application.SwapNumbers" />
         <item itemvalue="Application.QuotientRemainder" />
         <item itemvalue="Application.Factorisation" />
-        <item itemvalue="Application.HormonicNumber" />
       </list>
     </recent_temporary>
   </component>
