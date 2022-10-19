@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ad973f5-0764-42e7-af1a-f998494a57f0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/programs/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/programs/EvenOdd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +34,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SwapNumbers">
-    <configuration name="Factorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.programs.Factorisation" />
+  <component name="RunManager" selected="Application.EvenOdd">
+    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.programs.EvenOdd" />
       <module name="CorePrograms" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Harmonic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.programs.Harmonic" />
+    <configuration name="Factorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.programs.Factorisation" />
       <module name="CorePrograms" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenOdd" />
         <item itemvalue="Application.SwapNumbers" />
         <item itemvalue="Application.QuotientRemainder" />
         <item itemvalue="Application.Factorisation" />
         <item itemvalue="Application.HormonicNumber" />
-        <item itemvalue="Application.Harmonic" />
       </list>
     </recent_temporary>
   </component>
