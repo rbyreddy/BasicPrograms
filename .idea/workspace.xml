@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ad973f5-0764-42e7-af1a-f998494a57f0" name="Changes" comment="" />
+    <list default="true" id="2ad973f5-0764-42e7-af1a-f998494a57f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/basic/programs/HormonicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/programs/HormonicNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +34,35 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PowerOf2">
+  <component name="RunManager" selected="Application.HormonicNumber">
     <configuration name="FlipCoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.programs.FlipCoin" />
+      <module name="CorePrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Harmonic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.programs.Harmonic" />
+      <module name="CorePrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HormonicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.programs.HormonicNumber" />
       <module name="CorePrograms" />
       <extension name="coverage">
         <pattern>
@@ -74,6 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HormonicNumber" />
+        <item itemvalue="Application.Harmonic" />
         <item itemvalue="Application.PowerOf2" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.FlipCoin" />
