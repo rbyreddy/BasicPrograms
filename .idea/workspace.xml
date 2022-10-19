@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Factorisation">
+  <component name="RunManager" selected="Application.QuotientRemainder">
     <configuration name="Factorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.programs.Factorisation" />
       <module name="CorePrograms" />
@@ -74,19 +74,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.programs.LeapYear" />
-      <module name="CorePrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PowerOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.programs.PowerOf2" />
       <module name="CorePrograms" />
@@ -100,13 +87,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuotientRemainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.programs.QuotientRemainder" />
+      <module name="CorePrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuotientRemainder" />
         <item itemvalue="Application.Factorisation" />
         <item itemvalue="Application.HormonicNumber" />
         <item itemvalue="Application.Harmonic" />
         <item itemvalue="Application.PowerOf2" />
-        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
