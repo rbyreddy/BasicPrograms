@@ -32,7 +32,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LeapYear">
+  <component name="RunManager" selected="Application.PowerOf2">
     <configuration name="FlipCoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.programs.FlipCoin" />
       <module name="CorePrograms" />
@@ -59,8 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PowerOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.programs.PowerOf2" />
+      <module name="CorePrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowerOf2" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.FlipCoin" />
       </list>
